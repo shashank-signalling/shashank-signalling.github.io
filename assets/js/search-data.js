@@ -440,8 +440,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-chaired-a-session-at-22nd-b-cell-forum-at-konigswinter-germany",
+          title: 'Chaired a Session at 22nd B cell forum at Konigswinter, Germany',
           description: "",
           section: "News",},{id: "news-presented-ongoing-results-at-22nd-b-cell-forum-at-konigswinter-germany",
           title: 'Presented ongoing results at 22nd B cell forum at Konigswinter, Germany',
