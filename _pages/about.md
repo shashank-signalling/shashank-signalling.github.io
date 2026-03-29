@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Decoding how signaling networks shape immune cell function in disease
-<a href='#'>Affiliations</a>. Institute for Molecular Medicine, University Medical Campus, Mainz, Germany
+subtitle: <a href='#'>Affiliations</a>. Institute for Molecular Medicine, University Medical Campus, Mainz, Germany
 
 profile:
   align: right
@@ -28,6 +27,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+Decoding how signaling networks shape immune cell function in disease
 
 Hi and Wecome. I am a postdoctoral scientist based in Mainz, working in the field of immunology with a focus on intracellular signaling pathways that regulate immune cell function.
 
