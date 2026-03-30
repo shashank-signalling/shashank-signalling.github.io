@@ -53,8 +53,7 @@ cv:
         icon: fa-solid fa-hashtag
         keywords:
         - PCR, qPCR, cloning, mutagenesis, Western blot, ELISA, Cell culture,
-        flow cytometry, immunofluorescence, Immunoprecipitation, confocal
-        microscopy
+        flow cytometry, immunofluorescence, Immunoprecipitation, confocal microscopy
       - name: Analytics and Bioinformatics
         level: expert
         icon: fa-solid fa-hashtag
