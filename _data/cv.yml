@@ -30,7 +30,7 @@ cv:
         url: 
         area: Molecular Genetics
         studyType: PhD
-        start_date: 2015
+        start_date: 2016
         end_date: 2023
         score: ""
         courses: "Radioprotective mechanism of Omega 3 fatty acids on male physiological profile through Wnt canonical pathway."
@@ -65,12 +65,15 @@ cv:
     References:
       - name: Professor Nadine Hövelmeyer
         icon: fa-solid fa-laptop
-        reference: AG Hövelmeyer, Institute for Molecular Medicine, JGU Mainz – hoevelme@uni-mainz.de
+        reference: AG Hövelmeyer, Institute for Molecular Medicine, JGU Mainz 
+        – hoevelme@uni-mainz.de
 
       - name: Professor Bjorn E Clausen
-        icon: fa-solid fa-thumbtack
-        reference: Institute for Molecular Medicine, JGU Mainz – bclausen@uni-mainz.de
+        icon: fa-solid fa-laptop
+        reference: Institute for Molecular Medicine, JGU Mainz 
+        – bclausen@uni-mainz.de
 
       - name: Professor Thomas Wunderlich
-        icon: fa-solid fa-thumbtack
-        reference: Max Planck Institute for Metabolism Research; CECAD; Institute for Genetics – thomas.wunderlich@sf.mpg.de Thomas.wunderlich@uni-koeln.de
+        icon: fa-solid fa-laptop
+        reference: Max Planck Institute for Metabolism Research; CECAD; Institute for Genetics 
+        – thomas.wunderlich@sf.mpg.de thomas.wunderlich@uni-koeln.de
