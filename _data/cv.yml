@@ -51,19 +51,6 @@ cv:
         end_date: Present
         summary: Exploring and decoding the role of Wnt canonical signalling and PI3K-AKT signalling in B cell development and diseases
     
-    Awards:
-      - title: Senior Research fellow
-        authors:
-          - "Indian Council for Medical Research"
-        date: 2021
-        awarder: Indian Council for Medical Research
-
-        - title: Travel Grant
-        authors:
-          - "European Molecular Biology Laboratory"
-        date: 2017
-        awarder: European Molecular Biology Laboratory, Germany
-    
     Skills:
       - name: Molecular Biology and Cell signalling
         level: expert
