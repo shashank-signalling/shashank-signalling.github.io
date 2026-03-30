@@ -11,12 +11,10 @@ profile:
   more_info: >
     <p>+49 1774936423</p>
     <p>kumshash@uni-mainz.de</p>
-    <p>Institut für Molekulare Medizin
-Universitätsmedizin der Johannes Gutenberg-Universität
-Geb. 308A, 1. OG,
-Langenbeckstraße 1
-55131 Mainz
-Germany</p>
+    <p>Institut für Molekulare Medizin Universitätsmedizin der Johannes Gutenberg-Universität</p>
+    </p>Geb. 308A, 1. OG,</p>
+    </p>Langenbeckstraße 1</p>
+    </p>55131 Mainz, Germany</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
