@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Mechanisms of IL-10 mediated tumor immune evasion in colorectal cancer development
-<img width="1721" height="248" alt="image" src="https://github.com/user-attachments/assets/f8a1c1dd-3cb6-471c-87d0-f42afd6d3e5e" />
+title: Mechanisms of IL-10 mediated tumor immune evasion in colorectal cancer development <img width="1721" height="248" alt="image" src="https://github.com/user-attachments/assets/f8a1c1dd-3cb6-471c-87d0-f42afd6d3e5e" />
 description: with background image
 img: assets/img/12.jpg
 importance: 1
