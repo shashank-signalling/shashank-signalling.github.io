@@ -5,11 +5,13 @@
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Shashank
 last_name: Kumar, PhD
-socials:
+author:
+  name: Shashank Kumar
+  email: kumshash@uni-mainz.de
   github: shashank-signalling
   linkedin: shashank-kumar-phd-7b9b3139
-  email: kumshash@uni-mainz.de
-  scholar: 9ZyK8FsAAAAJ
+  scholar_userid: 9ZyK8FsAAAAJ
+  cv: /assets/pdf/example_pdf.pdf
 contact_note: >
   For instant contact, please visit my LinkedIn profile.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -399,7 +401,7 @@ lazy_loading_images: true # enables lazy loading of images (recommended)
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics: true # enables google analytics
+enable_google_analytics: false # enables google analytics
 enable_cronitor_analytics: true # enables cronitor RUM analytics
 enable_pirsch_analytics: false # enables Pirsch analytics (https://pirsch.io/)
 enable_openpanel_analytics: false # enables Openpanel analytics (https://openpanel.dev/)
