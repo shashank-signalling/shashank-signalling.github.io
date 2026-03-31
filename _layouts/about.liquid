@@ -64,34 +64,32 @@ layout: default
 {% endif %}
 
     <!-- Social -->
-    <!-- Social links: centered and bigger -->
+    <!-- Social links: centered, bigger, polished hover effect -->
 <style>
   .social-links {
     display: flex;
-    justify-content: center; /* centers horizontally */
-    align-items: center;     /* centers vertically */
-    gap: 24px;               /* space between icons, increased */
-    margin-top: 20px;        /* optional spacing above */
+    justify-content: center; 
+    align-items: center;     
+    gap: 24px;               
+    margin-top: 20px;        
   }
 
   .social-links img {
     width: 64px;
     height: 64px;
-    transition: transform 0.2s, filter 0.2s;
+    transition: transform 0.3s, filter 0.3s, box-shadow 0.3s;
     filter: grayscale(100%);
+    border-radius: 12px;       /* soft rounded corners */
   }
 
   .social-links img:hover {
-    transform: scale(1.2);
-    filter: grayscale(0%);
+    transform: scale(1.2);     
+    filter: grayscale(0%);     
+    box-shadow: 0 4px 12px rgba(0,0,0,0.3); /* subtle shadow */
   }
 </style>
 
 <div class="social-links">
-
-  <a href="https://github.com/shashank-signalling" target="_blank" title="GitHub">
-    <img src="<img src="https://simpleicons.org/icons/github.svg" alt="GitHub"> 
-  </a>
 
   <a href="https://www.linkedin.com/in/shashank-kumar-phd-7b9b3139" target="_blank" title="LinkedIn">
     <img src="https://simpleicons.org/icons/inspire.svg" alt="LinkedIn">
