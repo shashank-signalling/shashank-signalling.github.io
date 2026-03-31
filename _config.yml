@@ -5,6 +5,11 @@
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Shashank
 last_name: Kumar, PhD
+socials:
+  github: shashank-signalling
+  linkedin: shashank-kumar-phd-7b9b3139
+  email: kumshash@uni-mainz.de
+  scholar: 9ZyK8FsAAAAJ
 contact_note: >
   For instant contact, please visit my LinkedIn profile.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -23,11 +28,6 @@ last_updated: false # set to true if you want to display last updated in the foo
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
 
-socials:
-  github: shashank-signalling
-  linkedin: your-linkedin-username
-  email: kumshash@uni-mainz.de
-  scholar: 9ZyK8FsAAAAJ
 
 # -----------------------------------------------------------------------------
 # Theme
@@ -229,7 +229,6 @@ plugins:
   - jekyll-regex-replace
   - jekyll/scholar
   - jekyll-sitemap
-  - jekyll-socials
   - jekyll-tabs
   - jekyll-terser
   - jekyll-toc
