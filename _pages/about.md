@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Institute for Molecular Medicine, Univer
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_1.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>+49 1774936423</p>
