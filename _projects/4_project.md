@@ -2,7 +2,7 @@
 layout: page
 title: Integrin Beta2 (CD18) in B Cell Development and Function
 description: #
-img:
+img: assets/img/9.jpg
 importance: 3
 category: work
 ---
