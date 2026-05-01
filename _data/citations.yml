@@ -1,10 +1,14 @@
 metadata:
-  last_updated: '2026-04-17'
+  last_updated: '2026-05-01'
 papers:
   9ZyK8FsAAAAJ:2osOgNQ5qMEC:
     citations: 4
     title: Significance of the Wnt canonical pathway in radiotoxicity via oxidative stress of electron beam radiation and its molecular control in mice
     year: '2023'
+  9ZyK8FsAAAAJ:L8Ckcad2t8MC:
+    citations: 0
+    title: "A Dysregulated ROS\u2013NETosis\u2013DNase1 Axis Drives Vascular Dysfunction in Cardiometabolic Disease"
+    year: Unknown Year
   9ZyK8FsAAAAJ:ULOm3_A8WrAC:
     citations: 8
     title: HPLC Method for Chemical Composition and In vitro Antioxidant Activity of Camellia sinensis Linn.
@@ -14,7 +18,7 @@ papers:
     title: "Extraction and evaluation of \u03B1-mangostin for its antioxidant and acetylcholinesterase inhibitory activity"
     year: '2011'
   9ZyK8FsAAAAJ:_FxGoFyzp5QC:
-    citations: 1
+    citations: 2
     title: 'Folic acid-loaded chitosan nanoparticles: Cytotoxicity, acute and sub-acute oral toxicity and bioavailability in Wistar rats'
     year: '2022'
   9ZyK8FsAAAAJ:u-x6o8ySG0sC:
@@ -26,6 +30,6 @@ papers:
     title: Effects of Diesel Combustion Nanoparticles on Oxidative Stress Markers among the Exposures.
     year: '2018'
   9ZyK8FsAAAAJ:ufrVoPGSRksC:
-    citations: 0
+    citations: 1
     title: Omega 3 fish oil suppress radiation induced hepato and renal toxicity in mice through modulation in Wnt canonical pathway combined with NHEJ and Intrinsic Apoptotic pathway
     year: '2023'
