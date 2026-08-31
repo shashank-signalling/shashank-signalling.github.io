@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-12'
+  last_updated: '2026-08-31'
 papers:
   9ZyK8FsAAAAJ:2osOgNQ5qMEC:
     citations: 4
@@ -17,6 +17,10 @@ papers:
     citations: 6
     title: "Extraction and evaluation of \u03B1-mangostin for its antioxidant and acetylcholinesterase inhibitory activity"
     year: '2011'
+  9ZyK8FsAAAAJ:ZeXyd9-uunAC:
+    citations: 0
+    title: OTUB1 controls marginal zone B-cell development by stabilizing RelA in a CD40-dependent manner
+    year: '2026'
   9ZyK8FsAAAAJ:_FxGoFyzp5QC:
     citations: 2
     title: 'Folic acid-loaded chitosan nanoparticles: Cytotoxicity, acute and sub-acute oral toxicity and bioavailability in Wistar rats'
